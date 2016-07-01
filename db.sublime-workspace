@@ -1,0 +1,636 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ins",
+				"inscritosAtividade"
+			],
+			[
+				"uc",
+				"ucwords"
+			],
+			[
+				"hed",
+				"headers"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"p",
+				"position"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"uplo",
+				"uploads"
+			],
+			[
+				"sexo",
+				"sexo_responsavel"
+			],
+			[
+				"email",
+				"email_responsavel"
+			],
+			[
+				"dt_na",
+				"dt_nascimento_responsavel"
+			],
+			[
+				"sobre",
+				"sobrenome_responsavel"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"artes",
+				"artes_marciais"
+			],
+			[
+				"id_pessoa",
+				"id_pessoa_fisica"
+			],
+			[
+				"id_pess",
+				"id_pessoa_fisica"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 2047,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 132.0,
+		"last_filter": "intall",
+		"selected_items":
+		[
+			[
+				"intall",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"prefix",
+				"Autoprefix CSS"
+			],
+			[
+				"html5",
+				"Snippet: IE Conditional Comment: HTML5 Shim"
+			],
+			[
+				"jquery",
+				"Snippet: Google AJAX Libraries: jQuery"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"packe",
+				"Package Control: Enable Package"
+			],
+			[
+				"gitk",
+				"Git: Gitk"
+			],
+			[
+				"git add .",
+				"Git: Add..."
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"git add ",
+				"Git: Add All"
+			],
+			[
+				"git",
+				"Git: Init"
+			],
+			[
+				"git pull ",
+				"Git: Pull Current Branch"
+			],
+			[
+				"git ",
+				"Git: Gitk"
+			],
+			[
+				"git pull",
+				"Git: Pull Current Branch"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"gita",
+				"Git: Add All"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/var/www/db"
+	],
+	"file_history":
+	[
+		"/var/www/ejem/application/views/templateAdmin/pages/home.php",
+		"/var/www/ejem/application/controllers/Site.php",
+		"/var/www/ejem/application/views/templateAdmin/pages/lista_participantes.php",
+		"/var/www/ejem/application/libraries/Tadmin.php",
+		"/var/www/ejem/application/views/templateSite/pages/inscricao.php",
+		"/var/www/ejem/sftp-config.json",
+		"/var/www/ejem/application/models/Atividade_model.php",
+		"/var/www/ejem/application/models/Usuario_model.php",
+		"/var/www/ejem/application/views/templateSite/pages/contato.php",
+		"/var/www/ejem/application/config/config.php",
+		"/var/www/ejem/application/controllers/Inscricao.php",
+		"/var/www/ejem/application/views/templateAdmin/top_menu.php",
+		"/var/www/ejem/application/controllers/Usuario.php",
+		"/var/www/ejem/docs/db.sql",
+		"/home/asato/Área de trabalho/onibus.c",
+		"/home/asato/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/asato/onibus",
+		"/var/www/ejem/application/views/templateSite/pages/logon.php",
+		"/var/www/ejem/fazer upload",
+		"/var/www/ejem/application/views/templateAdmin/header.php",
+		"/var/www/ejem/application/views/templateAdmin/sidebar.php",
+		"/var/www/ejem/application/views/templateSite/pages/programacao.php",
+		"/var/www/ejem/application/controllers/Contato.php",
+		"/var/www/ejem/Mail.php",
+		"/var/www/ejem/apagar.sql",
+		"/var/www/ejem/application/views/templateSite/menu.php",
+		"/var/www/ejem/application/config/routes.php",
+		"/var/www/ejem/application/views/templateSite/footer.php",
+		"/var/www/ejem/application/views/templateSite/header.php",
+		"/var/www/ejem/application/controllers/Admin.php",
+		"/var/www/ejem/application/models/Inscricao_model.php",
+		"/var/www/ejem/assets/admin/css/adminStyle.css",
+		"/var/www/ejem/application/views/templateAdmin/footer.php",
+		"/var/www/ejem/assets/admin/adminStyle.css",
+		"/var/www/ejem/application/config/database.php",
+		"/var/www/ejem/assets/site/css/siteStyle.css",
+		"/var/www/ejem/.htaccess",
+		"/var/www/ejem/application/views/templateSite/pages/home.php",
+		"/var/www/ejem/index.php",
+		"/var/www/ejem/application/index.php",
+		"/var/www/ejem/composer.json",
+		"/var/www/ejem/application/language/portuguese-br/form_validation_lang.php",
+		"/var/www/ejem/application/views/templateSite/pages/sobre.php",
+		"/var/www/ejem/application/config/autoload.php",
+		"/var/www/ejem/application/models/Pessoa_model.php",
+		"/var/www/ejem/application/controllers/Atividade.php",
+		"/var/www/ejem/application/controllers/Pessoa.php",
+		"/var/www/ejem/application/core/MY_Model.php",
+		"/var/www/ejem/assets/css/style.css",
+		"/var/www/ejem/assets/style.css",
+		"/var/www/ejem/assets/bootstrap/css/bootstrap.min.css",
+		"/var/www/ejem/application/views/templateSite/pages/atividades.php",
+		"/var/www/ejem/web/.htaccess",
+		"/var/www/ejem/application/libraries/Tsite.php",
+		"/var/www/ejem/application/controllers/Participantes.php",
+		"/var/www/ejem/application/views/templateAdmin/pages/inicio.php",
+		"/var/www/ejem/web/index.php",
+		"/var/www/ejem/application/libraries/Template.php",
+		"/var/www/ejem/application/views/templateAdmin/menu.php",
+		"/var/www/ejem/.gitignore",
+		"/var/www/ejem/application/views/templateAdmin/pages/welcome_message.php",
+		"/var/www/skycore/index.php",
+		"/var/www/skycore/application/libraries/autoload.php",
+		"/var/www/skycore/application/views/templateAdmin/pages/pagamento.php",
+		"/var/www/skycore/application/controllers/Site.php",
+		"/var/www/skycore/application/views/admin/pagamento.php",
+		"/var/www/skycore/application/views/pagamento.php",
+		"/var/www/skycore/application/config/config.php",
+		"/var/www/skycore/application/views/template/header.php",
+		"/var/www/skycore/.htaccess",
+		"/var/www/skycore/application/views/template/menu.php",
+		"/var/www/skycore/application/views/pages/contato.php",
+		"/var/www/skycore/composer.json",
+		"/var/www/skycore/composer.lock",
+		"/var/www/skycore/application/controllers/Pagamento.php",
+		"/var/www/marmorariaprincesa/.htaccess",
+		"/var/www/skycore/application/views/template/footer.php",
+		"/var/www/skycore/assets/css/skycore.css",
+		"/var/www/skycore/application/views/pages/home.php",
+		"/var/www/skycore/assets/css/style.css",
+		"/var/www/skycore/application/controllers/Contato.php",
+		"/var/www/skycore/application/config/routes.php",
+		"/var/www/skycore/application/views/pages/servicos.php",
+		"/home/asato/Downloads/teste.html/10/1.html",
+		"/home/asato/Desktop/ApacheConf.php",
+		"/home/asato/Desktop/consulta_login.php",
+		"/var/www/skycore/application/views/pages/quem-somos",
+		"/var/www/skycore/application/views/pages/portfolio.php",
+		"/var/www/backup_sites/marmorariaonline/.htaccess",
+		"/tmp/fz3temp-1/config.php",
+		"/tmp/fz3temp-1/dbconfig.php",
+		"/tmp/fz3temp-1/index.php",
+		"/tmp/fz3temp-1/status.cron.php",
+		"/var/www/SkyCore/application/config/config.php",
+		"/var/www/pdf2txt/package.json",
+		"/var/www/pdf2txt/upload.php",
+		"/var/www/pdf2txt/ssh",
+		"/var/www/pdf2txt/bower.json",
+		"/var/www/backup_sites/hostingest/hostingest.sql",
+		"/var/www/kata (16.12.15)/application/controllers/Cadastro.php",
+		"/var/www/kata(28.02.16.2)/application/controllers/Cadastro.php",
+		"/var/www/kata(16.12.15)1/application/controllers/Cadastro.php",
+		"/var/www/kata2/application/controllers/Cadastro.php",
+		"/var/www/kata(17.12.15)/application/controllers/Cadastro.php",
+		"/var/www/kata(28.02.16)/application/controllers/Cadastro.php",
+		"/var/www/kata/application/controllers/Cadastro.php",
+		"/var/www/kata (copy)/assets/js/index.js",
+		"/var/www/kata (copy)/assets/js/jquery-easy-pie-chart/index.js",
+		"/var/www/kata/assets/css/style.css",
+		"/var/www/kata/assets/js/index.js",
+		"/var/www/kata/application/views/aluno/lista.php",
+		"/var/www/kata/application/models/Crud_model.php",
+		"/var/www/kata/application/config/database.php",
+		"/var/www/kata/application/controllers/Exclusao.php",
+		"/var/www/kata/application/config/config.php",
+		"/var/www/kata/application/controllers/Aluno.php",
+		"/home/asato/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/asato/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/asato/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/var/www/ejes/css/estilo.css",
+		"/var/www/ejes/css/freelancer.css",
+		"/var/www/ejes/css/bootstrap.css",
+		"/var/www/ejes/css/bootstrap.min.css",
+		"/var/www/ejes/startbootstrap-full-slider-1.0.4/index.html",
+		"/var/www/pdf2txt/script.js",
+		"/var/www/pdf2txt/jQuery.filer-1.0.5/index.html",
+		"/var/www/kata/newSQL.sql",
+		"/var/www/kata/application/views/presenca/form_cadastro.php"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"toke",
+			"pessoa",
+			"45",
+			"$pessoa",
+			"valida_cpf",
+			"atualizar",
+			"a[",
+			"get_atividade_escolha",
+			"td",
+			"arquitetura",
+			"p",
+			"inscri",
+			"$mail",
+			"nodejs",
+			"print_r",
+			"menu",
+			"tsite",
+			"menu",
+			"status_inscricao",
+			"inscricao_model",
+			"session",
+			"sessi",
+			"plugins",
+			"$usuario",
+			"valid",
+			"cadastroerro",
+			"cadastrook",
+			"node",
+			"max",
+			"web/index.php/site/",
+			"web",
+			"footer",
+			"TestaCPF",
+			"smtp",
+			"status",
+			"300px",
+			"timeline-image",
+			"sm-6",
+			"xs-6",
+			"inscrever",
+			"js",
+			"teste",
+			"img-circl",
+			"circle",
+			"300px",
+			"btn-l",
+			"div",
+			"radio-button",
+			"pessoa",
+			"id_pessoa",
+			"sobrenome",
+			"email",
+			"150px",
+			"map",
+			"ener",
+			"breack",
+			"brack",
+			"<?",
+			"brac",
+			"login",
+			"ti",
+			"virtual",
+			"kmm",
+			"key",
+			"name",
+			"cadastroerro",
+			"cadastrook",
+			"$em",
+			".navbar-brand",
+			"nav-brand",
+			"footer",
+			"timeline-image h3",
+			"section-head",
+			"coffeebreak.png",
+			"coffe",
+			"coffee",
+			"160px",
+			"img-circle",
+			"telefone",
+			"footer",
+			"pessoa",
+			"data",
+			"50",
+			"atividades",
+			"produto",
+			"']",
+			"['",
+			"label class=\"col-md-4",
+			"col-md-4",
+			"btn-xl",
+			"btn",
+			"girl_image",
+			"jpg",
+			"p_image",
+			"jpg",
+			"img-circle",
+			"timeline",
+			"repeat",
+			"intro-header",
+			"cente",
+			"section-subheading",
+			"section-heading",
+			"circle",
+			"small:after",
+			"small:",
+			"small",
+			"page-header",
+			"'",
+			"\"",
+			"portfolio",
+			"img-responsive",
+			"750x450",
+			"col-md-3",
+			"body",
+			"head",
+			"site",
+			"web",
+			"autoloa",
+			"vendor",
+			"statistics",
+			"dropdown",
+			"config",
+			"this->gerencia",
+			"v",
+			"k",
+			"composer",
+			", $this->dados",
+			"$this->dados"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"animacao",
+			"dd4814",
+			", 1),",
+			"ativo int",
+			"'",
+			"2",
+			"3",
+			"2",
+			"4",
+			"2",
+			"",
+			"'"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2047,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								614,
+								614
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 225.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 122.0
+	},
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "db.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"menu.php",
+				"application/views/templateSite/menu.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"/var/www/ejem/ejem.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 255.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}
